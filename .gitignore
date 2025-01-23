@@ -1,0 +1,19 @@
+# Ignore build and debug files
+bin/
+obj/
+*.pdb
+*.user
+*.suo
+
+# Ignore NuGet files
+packages/
+*.nupkg
+
+# Ignore Rider/Visual Studio files
+.vs/
+.idea/
+*.sln.iml
+
+# Ignore logs and temporary files
+*.log
+*.tmp
